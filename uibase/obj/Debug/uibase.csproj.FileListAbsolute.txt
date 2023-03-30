@@ -1,0 +1,14 @@
+C:\Users\randy\source\repos\uibase\uibase\bin\Debug\uibase.exe.config
+C:\Users\randy\source\repos\uibase\uibase\bin\Debug\uibase.exe
+C:\Users\randy\source\repos\uibase\uibase\bin\Debug\uibase.pdb
+C:\Users\randy\source\repos\uibase\uibase\bin\Debug\Guna.UI.dll
+C:\Users\randy\source\repos\uibase\uibase\bin\Debug\Guna.UI2.dll
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.csproj.AssemblyReference.cache
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.csproj.SuggestedBindingRedirects.cache
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.Form1.resources
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.Properties.Resources.resources
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.csproj.GenerateResource.cache
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.csproj.CoreCompileInputs.cache
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.csproj.CopyComplete
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.exe
+C:\Users\randy\source\repos\uibase\uibase\obj\Debug\uibase.pdb
